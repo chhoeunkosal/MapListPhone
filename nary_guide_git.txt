@@ -1,0 +1,23 @@
+----------------first initialize project.
+git init
+----------------find new update
+git add .
+----------------update code local
+git commit -m "init"
+----------------connect to github
+git remote add origin https://github.com/chhoeunkosal/testing.git
+----------------update source to server
+git push origin master
+
+
+update daily code....
+git add .
+git commit -m "update...."
+git push origin master
+
+------------------------react learn----------------------
+https://facebook.github.io/react/docs/handling-events.html 
+
+-------------------------react awesome ------------------
+https://github.com/enaqx/awesome-react#demos
+
